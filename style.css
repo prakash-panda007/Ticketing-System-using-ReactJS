@@ -1,0 +1,15 @@
+.priority-btn {
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 10px;
+    cursor: pointer;
+    padding: 5px 10px;
+  }
+  
+  .priority-btn.active {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+  }
